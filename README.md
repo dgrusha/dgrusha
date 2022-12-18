@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 🔭 I’m currently working on Data Science , especially BI aplications, also django development 
 
 
