@@ -1,5 +1,5 @@
 # About Me:
-🔭 I’m currently working on Data Science , especially BI aplications, also django development 
+🔭 I work in Data Science -> especially BI aplications -> Django development 
 
 
 ## 🌐 Socials:
